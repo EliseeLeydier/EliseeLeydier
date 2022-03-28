@@ -1,15 +1,10 @@
-### Hi there 👋
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EliseeLeydier&show_icons=true&theme=swift" alt="EliseeLeydier" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseeLeydier&layout=compact" alt="EliseeLeydier" />
-# Title / Repository Name
-
 ### Hey Dev! I'm glad that you visited me 😄
 <div align="center">
  <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=darcula&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=swift&show_icons=true" />
 </a>
 <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=darcula" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=swift" />
 </a>
 <br>
  
