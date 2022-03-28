@@ -1,10 +1,10 @@
 ### Hey Dev! I'm glad that you visited me 😄
 <div align="center">
  <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=swift&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EliseeLeydier&theme=swift&show_icons=true" />
 </a>
 <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=swift" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EliseeLeydier&theme=swift" />
 </a>
 <br>
  
