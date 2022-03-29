@@ -20,7 +20,7 @@ hi, im Elisée 🔮.
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EliseeLeydier&theme=swift" />
 </a>
 
-<p align="left">
+<p align="center">
   <code> <img height="50" src="https://imgs.search.brave.com/C6Hfm9Kw43mUDNOhSQui5rRMalRypzbvhsW4wlMHhaw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvcHl0/aG9uLTUtbG9nby1w/bmctdHJhbnNwYXJl/bnQucG5n"> </code> 
   <code> <img height="50" src="https://imgs.search.brave.com/Sf3Dn-KI_DY_3X9hf9oa6qCNnY4S4dOSVTj9VmjTglA/rs:fit:1200:1200:1/g:ce/aHR0cDovL2xvZ29z/LWRvd25sb2FkLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ni8xMC9KYXZhX2xv/Z28ucG5n"> </code>
   <code> <img height="50" src="https://imgs.search.brave.com/9nxGosGhfqNZkckbgg60rqgegMBe1KodMXL2bksHWoA/rs:fit:600:675:1/g:ce/aHR0cHM6Ly93d3cu/aXRzb2x1dGlvbnNq/b3ZlbC5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTgvMDUv/Y3BwX2xvZ28tNjAw/eDY3NS5wbmc"></code>
