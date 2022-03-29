@@ -13,16 +13,12 @@ hi, im Elisée 🔮.
 ```
 
 <div align="center">
- <p align="center">
  <a href="https://github.com/shravanatirtha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EliseeLeydier&theme=swift&show_icons=true" />
 </a>
-  </p>
-<p align="center">
 <a href="https://github.com/shravanatirtha">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EliseeLeydier&theme=swift" />
 </a>
- </p>
 
 <p align="center">
   <code> <img height="50" src="https://imgs.search.brave.com/C6Hfm9Kw43mUDNOhSQui5rRMalRypzbvhsW4wlMHhaw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvcHl0/aG9uLTUtbG9nby1w/bmctdHJhbnNwYXJl/bnQucG5n"> </code> 
