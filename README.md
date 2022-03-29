@@ -34,12 +34,4 @@ hi, im Elisée 🔮.
 <a href="https://github.com/shravanatirtha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseeLeydier&langs_count=6)" />
 </a>
-<a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=EliseeLeydier" />
-</a>
  </div> 
-  
-
-------
-[jewdev](https://github.com/jewdev)
-Last Edited on: 03/09/2021
