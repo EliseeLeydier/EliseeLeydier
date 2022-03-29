@@ -12,7 +12,7 @@ hi, im Elisée 🔮.
 # 📖 computer science
 ```
 
-<div align="center">
+<div>
  <a href="https://github.com/shravanatirtha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EliseeLeydier&theme=swift&show_icons=true" />
 </a>
