@@ -19,10 +19,7 @@ hi, im Elisée 🔮.
 <a href="https://github.com/shravanatirtha">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EliseeLeydier&theme=swift" />
 </a>
-<br>
- 
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Zone
- <br>
+
 <p align="left">
   <code> <img height="50" src="https://imgs.search.brave.com/C6Hfm9Kw43mUDNOhSQui5rRMalRypzbvhsW4wlMHhaw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvcHl0/aG9uLTUtbG9nby1w/bmctdHJhbnNwYXJl/bnQucG5n"> </code> 
   <code> <img height="50" src="https://imgs.search.brave.com/Sf3Dn-KI_DY_3X9hf9oa6qCNnY4S4dOSVTj9VmjTglA/rs:fit:1200:1200:1/g:ce/aHR0cDovL2xvZ29z/LWRvd25sb2FkLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ni8xMC9KYXZhX2xv/Z28ucG5n"> </code>
