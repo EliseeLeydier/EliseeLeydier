@@ -5,11 +5,11 @@
 ```diff
 hi, im Elisée 🔮.
 
-@@advanced programming student.@@
+@@ programming student.@@
 + living in France.
 - 18 years old
-! program engineer, web developer and shitposter
-# 📖 reverse engineering, computer science
+! Student
+# 📖 computer science
 ```
 
 <div align="center">
