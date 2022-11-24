@@ -7,7 +7,7 @@ hi, im Elisée 🔮.
 
 @@ programming student.@@
 + living in France.
-- 18 years old
+- 12,5 years old
 ! Student
 # 📖 computer science
 ```
