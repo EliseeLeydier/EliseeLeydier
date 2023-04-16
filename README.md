@@ -58,14 +58,14 @@ hi, im Elisée 🔮.
  <img height="200" src="https://i.pinimg.com/originals/70/84/f1/7084f1a3cb53af935bd63eaecaa39990.gif"/>
  </div> 
   
+<h1 align="center">♭~𝒩𝑜𝓌 𝒫𝓁𝒶𝓎𝒾𝓃𝑔~♯</h1>
   
-  <h1 align="center">♭~𝒩𝑜𝓌 𝒫𝓁𝒶𝓎𝒾𝓃𝑔~♯</h1>
-  <div align="center">
-<a align="center" href="https://open.spotify.com/user/u20qw2ntqc0nsfl90cq50ubz9?si=ce25b550ed6f46d0%3F_authfailed%3D1&nd=1"><img width="720" height="auto" src="https://novatorem2-nu.vercel.app/api/spotify?background_color=0d1117&border_color=FFA2FE" alt="PasMoi's Spotify Currently Playing" target="_blank" class="auto" rel="noopener noreferrer"/></a>
-   
-   </div>
+<div align="center">
 
- 
+<img src="https://now-play.vercel.app/api/generate?uid=99570831-c087-4f31-b7f7-2c3584f6624a&bar&theme=dark"/>
+<!-- ![now playing](https://now-play.vercel.app/api/generate?uid=99570831-c087-4f31-b7f7-2c3584f6624a) -->
+ </div>
+
   <h1 align="center">🌸~𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝓂𝑒~🌸</h1>
   
   <div align="center">
