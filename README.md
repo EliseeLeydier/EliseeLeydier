@@ -35,7 +35,7 @@ hi, im Elisée 🔮.
        <br>
     </a>
 </p>
- <img width="auto" height="300" src=https://media.tenor.com/SJm4sB2n5FcAAAAi/aggretsuko-retsuko.gif> <a href="https://skillicons.dev">
+ <img width="auto" height="300" src=[https://media.tenor.com/SJm4sB2n5FcAAAAi/aggretsuko-retsuko.gif](https://external-preview.redd.it/ZweguEb4QM39MMVCD1RS7IYTxb3yUsEtMpTjMDlBsHA.gif?s=41a18b21d7a3bb44e0756956482a56a6e3c7de97)> <a href="https://skillicons.dev">
   
  <br>
        
